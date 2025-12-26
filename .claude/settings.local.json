@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python opencv_basics.py:*)",
+      "Bash(findstr:*)",
+      "Bash(dir:*)",
+      "Bash(python lbp_matcher.py:*)",
+      "Bash(python harris_detector.py:*)",
+      "Bash(python canny_detector.py:*)",
+      "Bash(python harris_detector_advanced.py:*)",
+      "Bash(python sift_detector.py:*)"
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+Image Statistics for picka.png
+==================================================
+Mean intensity: 128.28
+Standard deviation: 42.20
+Min intensity: 0
+Max intensity: 255
+Image shape: (886, 966)

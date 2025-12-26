@@ -1,0 +1,7 @@
+Image Statistics for rose.jpg
+==================================================
+Mean intensity: 82.55
+Standard deviation: 38.79
+Min intensity: 3
+Max intensity: 222
+Image shape: (768, 1024)
