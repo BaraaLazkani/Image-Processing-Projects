@@ -443,7 +443,7 @@ python sift_detector.py --image1 I8.jpg --image2 I9.jpg --threshold 21
 
 #### Sample Output
 
-![SIFT Matches](sift_feature_matching/output/I8_I9_matches_visualization.png)
+![SIFT Matches](sift_feature_matching/output/I8_I9_visualization.png)
 
 *Figure 10: SIFT feature matching between two images - 13 correspondences found*
 
